@@ -5,7 +5,7 @@
 🎓 Computer Science Graduate  
 🚀 Currently building my own AI assistant.  
 
-📫 Reach me at: [amanansarifz2012@gmail.com](mailto:amanansarifz2012@gmail.com)  
+## 📫 Reach me at: [amanansarifz2012@gmail.com](mailto:amanansarifz2012@gmail.com)  
 🌐 [Portfolio](https://your-portfolio-link.com)  
 📄 [Resume](https://drive.google.com/file/d/1fTPEKnYmwVH0w1C47cDADfeKHLxfvlq7/view?usp=sharing)  
 
